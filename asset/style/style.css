@@ -6,10 +6,9 @@
 
 body {
   background-color: #a164df;
-  font-family: "Poppins", sans-serif;
+  font-family: sans-serif;
   display: flex;
   flex-wrap: wrap;
-  flex-flow: column;
   align-items: center;
   justify-content: center;
   text-align: center;
